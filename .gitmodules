@@ -7,3 +7,6 @@
 [submodule "MenusAndAlerts"]
 	path = MenusAndAlerts
 	url = https://github.com/AddankiSaiSuryaSanjana/MenusAndAlerts
+[submodule "Intents"]
+	path = Intents
+	url = https://github.com/AddankiSaiSuryaSanjana/Intents
