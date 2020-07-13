@@ -1,3 +1,6 @@
 [submodule "InputControls"]
 	path = InputControls
 	url = https://github.com/AddankiSaiSuryaSanjana/InputControls
+[submodule "ImageButtons"]
+	path = ImageButtons
+	url = https://github.com/AddankiSaiSuryaSanjana/ImageButtons
