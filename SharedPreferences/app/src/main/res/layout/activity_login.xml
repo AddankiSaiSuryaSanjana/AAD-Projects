@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login Page"
+        android:textSize="30sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        android:gravity="center"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter The UserName"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:inputType="text"
+        android:id="@+id/et_login_username"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter The Password"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:inputType="textPassword"
+        android:id="@+id/et_login_password"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:background="@color/colorAccent"
+        android:textSize="16sp"
+        android:onClick="doneLogin"
+        android:textColor="@color/colorPrimaryDark"
+        android:id="@+id/button_login"/>
+</LinearLayout>
