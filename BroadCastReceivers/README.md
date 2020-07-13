@@ -1,4 +1,4 @@
-#BroadCast Receivers
+BroadCast Receivers
 
 Android apps can send or receive broadcast messages from the Android system and other Android apps.
  These broadcasts are sent when an event of interest occurs. For example, the Android system sends broadcasts when various system events occur, such as when the system boots up or the device starts charging. 
