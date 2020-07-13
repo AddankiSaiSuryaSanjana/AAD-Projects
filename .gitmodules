@@ -10,3 +10,6 @@
 [submodule "Intents"]
 	path = Intents
 	url = https://github.com/AddankiSaiSuryaSanjana/Intents
+[submodule "ScrollingTextView"]
+	path = ScrollingTextView
+	url = https://github.com/AddankiSaiSuryaSanjana/ScrollingTextView
