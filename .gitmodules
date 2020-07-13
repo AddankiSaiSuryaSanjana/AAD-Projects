@@ -4,3 +4,6 @@
 [submodule "ImageButtons"]
 	path = ImageButtons
 	url = https://github.com/AddankiSaiSuryaSanjana/ImageButtons
+[submodule "MenusAndAlerts"]
+	path = MenusAndAlerts
+	url = https://github.com/AddankiSaiSuryaSanjana/MenusAndAlerts
