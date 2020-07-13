@@ -16,3 +16,6 @@
 [submodule "ActivityLifeCycle"]
 	path = ActivityLifeCycle
 	url = https://github.com/AddankiSaiSuryaSanjana/ActivityLifeCycle
+[submodule "FirstAADProject"]
+	path = FirstAADProject
+	url = https://github.com/AddankiSaiSuryaSanjana/FirstAADProject
