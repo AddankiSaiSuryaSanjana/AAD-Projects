@@ -13,3 +13,6 @@
 [submodule "ScrollingTextView"]
 	path = ScrollingTextView
 	url = https://github.com/AddankiSaiSuryaSanjana/ScrollingTextView
+[submodule "ActivityLifeCycle"]
+	path = ActivityLifeCycle
+	url = https://github.com/AddankiSaiSuryaSanjana/ActivityLifeCycle
